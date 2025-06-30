@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Vocabulary Booster",
+    "version": "1.0",
+    "description": "Shows a new English word and its meaning in simple English.",
+    "chrome_url_overrides": {
+      "newtab": "exten.html"
+    },
+    "permissions": [],
+    "icons": {
+      "512": "icon4.png",
+      "256": "icon5.png",
+      "128": "icon6.png",
+      "64": "icon7.png",
+      "32": "icon8.png",
+      "24": "icon9.png",
+      "16": "icon10.png"
+    }
+}
