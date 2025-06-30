@@ -2,8 +2,6 @@
 
 A simple and lightweight Chrome extension that shows a **random English word** with a **simple definition** every time you click the extension icon. Perfect for improving your vocabulary — one word at a time!
 
-![Screenshot](screenshot.png) <!-- optional if you have a screenshot -->
-
 ---
 
 ## 🚀 Features
